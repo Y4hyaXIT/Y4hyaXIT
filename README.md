@@ -4,7 +4,7 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=C%2B%2B+Developer;Reverse+Engineering+Enthusiast;Cheat+Panel+Creator;Always+Learning+New+Things)
 
-![Snake animation](https://github.com/Y4HYA/Y4HYA/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
